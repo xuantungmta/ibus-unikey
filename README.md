@@ -14,21 +14,38 @@ Original/Official Unikey engine website, mainternanced by its great/generous aut
 === Original ibus-unikey (on Ubuntu 16.04) ===
 
 sudo apt install libgconf-2-4
+
 sudo apt install autopoint
+
 sudo apt install autoconf
+
 sudo apt install intltool
+
 sudo apt install libtool
+
 sudo apt install libibus-1.0-dev
+
 sudo apt install python
+
 sudo apt search gtk+
+
 sudo apt search gtk
+
 sudo apt search "gtk+"
+
 sudo apt search "gtk+" | grep "gtk+"
+
 sudo apt search libgtk
+
 sudo apt install libgtk2mm
+
 sudo apt search  libgtkmm
+
 sudo apt install libgtkmm-2.4-dev
 
+Overview of Imput Method for CJK (and Vietnamese)
+
+https://blogs.gnome.org/happyaron/2011/01/15/linux-input-method-brief-summary/
 
 -----------------------------------------------------------------------
 Original readme
