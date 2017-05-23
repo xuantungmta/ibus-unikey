@@ -47,6 +47,10 @@ Overview of Imput Method for CJK (and Vietnamese)
 
 https://blogs.gnome.org/happyaron/2011/01/15/linux-input-method-brief-summary/
 
+User BongNV on github already did this more than a year ago: https://github.com/bongnv/ibus-unikey
+
+And his own introduction: http://bongnv.github.io/2016/03/another-ibus-unikey.html
+
 -----------------------------------------------------------------------
 Original readme
 
