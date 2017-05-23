@@ -51,6 +51,12 @@ User BongNV on github already did this more than a year ago: https://github.com/
 
 And his own introduction: http://bongnv.github.io/2016/03/another-ibus-unikey.html
 
+And another unikey-based engine:
+
+https://devhub.io/repos/wilonth-BoGoEngine
+
+It's much fun now, or a big mess to sort out.
+
 -----------------------------------------------------------------------
 Original readme
 
