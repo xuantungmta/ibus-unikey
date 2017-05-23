@@ -63,6 +63,8 @@ It's much fun now, or a big mess to sort out.
 
 An hard to find custom ibus input-method-engine guide: http://www.studymongolian.net/technical/how-to-create-linux-input-method-editor/
 
+An awesome overview: https://huytd.github.io/posts/go-tieng-viet-linux.html
+
 //TODO Using wiki instead of readme.
 
 -----------------------------------------------------------------------
