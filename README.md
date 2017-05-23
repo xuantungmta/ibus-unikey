@@ -55,6 +55,8 @@ And a alternative engine to unikey-based:
 
 https://devhub.io/repos/wilonth-BoGoEngine
 
+https://devhub.io/repos/haqduong-ibus-bogo
+
 Some intial step with vala: https://github.com/lewtds/ibus-bogo-vala/blob/master/src/main.vala
 
 It's much fun now, or a big mess to sort out.
