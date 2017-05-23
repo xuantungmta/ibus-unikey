@@ -61,6 +61,10 @@ Some intial step with vala: https://github.com/lewtds/ibus-bogo-vala/blob/master
 
 It's much fun now, or a big mess to sort out.
 
+An hard to find custom ibus input-method-engine guide: http://www.studymongolian.net/technical/how-to-create-linux-input-method-editor/
+
+//TODO Using wiki instead of readme.
+
 -----------------------------------------------------------------------
 Original readme
 
