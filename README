@@ -1,3 +1,14 @@
+Clone of iBus-Unikey for fixing some crash.
+
+Todo list:
+1. Refactoring to gain some inside or at least familiar with ibus-unikey code base.
+2. Convert from autotool to cmake.
+3. Update with upstream unikey engine.
+4. Now, what?
+
+-----------------------------------------------------------------------
+Original readme
+
 IBus-Unikey IME
 ---------------
 Copyright (C) 2009 - 2012 Ubuntu-VN <http://www.ubuntu-vn.org>
